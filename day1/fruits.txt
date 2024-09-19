@@ -1,0 +1,2 @@
+List: ['&', 'C:/Users/gichaudh/AppData/Local/Programs/Python/Python312/python.exe', 'c:/mywork/patient/question/list.py']
+Tuple: ('&', 'C:/Users/gichaudh/AppData/Local/Programs/Python/Python312/python.exe', 'c:/mywork/patient/question/list.py')

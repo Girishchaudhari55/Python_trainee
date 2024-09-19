@@ -1,0 +1,2 @@
+lsit:['apple', 'banana', 'mango', 'grap']
+tuple('apple', 'banana', 'mango', 'grap')
